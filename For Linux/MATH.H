@@ -1,0 +1,10 @@
+cos(int);6
+sin(int);6
+tan(int);6
+sqrt(int);6
+exp(int);6
+fmod(int);7
+pow(int,int);7
+log(int);6
+floor(int);8
+fabs(int);7

@@ -1,0 +1,10 @@
+#include<math>
+void calc()
+{float f;
+char f
+}
+
+void main()
+{
+calc();
+}

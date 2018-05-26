@@ -1,0 +1,10 @@
+#include<pre.h>
+#include<conio.h>
+
+void fun()
+{int a;
+}
+void main()
+{
+fun();
+}

@@ -1,0 +1,17 @@
+#include<conio.h>
+#include<pre.h>
+#include<math.h>
+
+void calc()
+{
+int a;
+char b;
+sqrt(a);
+tan(b);
+floor(a);
+float f;
+pow(f,a);
+}
+
+void main()
+{calc();}
