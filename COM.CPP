@@ -16,7 +16,7 @@ class UI
  void compile()
   {
    make();
-   cout<<" \n\n\n              ................PRESS ANY KEY TO QUIT................";
+   cout<<"\n\n\n              ................PRESS ANY KEY TO QUIT................";
    getch();
   }
 };
@@ -32,10 +32,10 @@ void UI::about()
    cout<<":::C++ COMPILER:::";
    cout<<"\n\n\n";
    cout<<"THIS BETA C++ COMPILER IS VERY BASIC VERSION OF ORIGINAL C++ COMPILER. TILL NOW IT ONLY INCLUDES NON_PARAMETRISED FUNCTION CREATION AND VARIABLE INITIALIZATION CHECKING AND OTHER STUFFS ,BUT SOON MORE FEATURES SHALL BE ADDED.\n";
-   cout<<"\n\nHOW TO COMPILE A PROGRAMME FILE?\n";
+   cout<<"\n\nHOW TO COMPILE THE PROGRAMME FILE?\n";
    cout<<"\n1.To compile a programme edit it in a file and save it in ''../Turboc3/tc/bin/'' directory (through notepad or gedit).";
-   cout<<"\n\n2.Now click on 'COMPILE A PROGRAMME' dialoge box";
-   cout<<"\n\n3.Then enter the name of the file with extension(like .txt)";
+   cout<<"\n\n2.Now click on the 'COMPILE A PROGRAMME' dialoge box";
+   cout<<"\n\n3.Then enter the name of the file with the extension(like .txt)";
    cout<<"\n\n4.Correspoding error shall be raised by the compiler if any..";
    cout<<"\n\n\n         THANK YOU.....";
    cout<<" \n\n\n              ................PRESS ANY KEY TO QUIT................";
@@ -66,7 +66,7 @@ void main()
  clrscr();
  randomize();
  show_mouse();
- for(int i=0;i<30;i++)
+ for(int i=0;i<=29;i++)
    cout<<" ";
  cout<<":::C++ COMPILER:::";
  cout<<"\n";
@@ -75,9 +75,9 @@ void main()
    cout<<"      ";
  for(i=0;i<8;i++)
    cout<<"\n";
- for(i=0;i<28;i++)
+ for(i=0;i<=27;i++)
    cout<<" ";
- cout<<"--COMPILE A PROGRAMME--\n";
+ cout<<"--COMPILE THE PROGRAMME--\n";
  for(i=0;i<28;i++)
    cout<<" ";
    cout<<"---ABOUT THE COMPILER---\n";
